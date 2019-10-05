@@ -1,0 +1,18 @@
+# CONFIG FILE
+
+[bamboo]
+server = <PLEASE_FILL_IN>
+username = <PLEASE_FILL_IN>
+password = <PLEASE_FILL_IN>
+
+[host_name]
+fqdn = <PLEASE_FILL_IN>
+port = <PLEASE_FILL_IN>
+
+[redis_server]
+server = <PLEASE_FILL_IN>
+port = <PLEASE_FILL_IN>
+#
+# If password contains %, you must escape it
+#
+password = <PLEASE_FILL_IN>
